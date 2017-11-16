@@ -1,0 +1,81 @@
+/*Dando estilo al texto*/
+h1{
+  font-family: 'Roboto Slab', serif;
+}
+/*Dando estilo a la línea*/
+hr{
+  margin-left: 2px;
+  left: 2px;
+  width: 45px;
+  border: none;
+  height: 3px;
+  color: #000000;
+  background-color: #000000;
+}
+/*container*/
+container{
+  display: block;
+}
+/*Dando estilo al texto dentro de la imagen*/
+span{
+  position: absolute;
+  bottom: 8px;
+  right: 7px;
+  font-size: 10px;
+  font-family: 'Roboto Slab', serif;
+  color: white;
+}
+/*posicionando imagenes*/
+.first-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
+
+.second-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
+
+.third-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
+
+.fourth-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
+
+.fifth-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
+
+.sixth-coder{
+  background-size: 119px 114px;
+  width: 119px;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  display: inline-block;
+}
